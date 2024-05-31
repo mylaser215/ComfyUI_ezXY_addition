@@ -1,4 +1,3 @@
-pprint
 numpy
 torch
-cv2
+opencv-python
